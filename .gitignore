@@ -1,0 +1,11 @@
+__pycache__/
+
+#data files 
+*.nc
+*.pkl
+*.npz
+data/
+
+#figures: 
+*.png
+*/figures/
